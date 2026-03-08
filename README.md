@@ -17,7 +17,7 @@ Guanghui Zhou, Qingke Zhang*, Kaitong Fu, Xingchen Dong, Junqing Li, Diego Oliva
 >  3. Depto. de Ingeniería Electro-Fótonca, Universidad de Guadalajara, CUCEI, 44430, Guadalajara, México  
 
 > **Corresponding author:** Qingke Zhang   
-> **Email:** `tsingke@sdnu.edu.cn`
+> **Email:** [tsingke@sdnu.edu.cn](mailto:tsingke@sdnu.edu.cn)
 
 **Copyright**
 ```
@@ -50,8 +50,8 @@ CRLSO/
 
 
 <p align="left">
-  <img src="./Diagrams/CRL-Learning.png" alt="a" width="50%" />
-  <img src="./Diagrams/CRLSO-flowchart.png" alt="a" width="50%" />
+  <img src="./Diagrams/CRL-Learning.png" alt="a" width="49%" />
+  <img src="./Diagrams/CRLSO-flowchart.png" alt="a" width="49%" />
 </p>
 <p align="center">
   Illustration of CRLSO learning and flowchart.
