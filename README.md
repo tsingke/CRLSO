@@ -51,21 +51,21 @@ CRLSO/
 
 
 <p align="left">
-  <img src="./Diagrams/Searh Behavior.png" alt="a" width="80%" />
+  <img src="./Diagrams/Searh Behavior.png" alt="a" width="90%" />
 </p>
 <p align="center">
   Search Behavior Analysius.
 </p>
 
 <p align="left">
-  <img src="./Diagrams/Radar-chart.png" alt="a" width="80%" />
+  <img src="./Diagrams/Radar-chart.png" alt="a" width="90%" />
 </p>
 <p align="center">
  Peformance Comparison with Radar charts on CEC'2010 and CEC'2013.
 </p>
 
 <p align="left">
-  <img src="./Diagrams/msa.png" alt="a" width="80%" />
+  <img src="./Diagrams/msa.png" alt="a" width="90%" />
 </p>
 <p align="center">
  CRLSO for Multiple Sequence Alignment(MSA).
