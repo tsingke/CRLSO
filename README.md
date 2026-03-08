@@ -231,9 +231,8 @@ This repository is released for **academic research and educational use only**.
 ## 6. Contact
 
 **Prof. Ph.D. Qingke Zhang**  
-- School of Computer Science and Artificial Intelligence,
-- Shandong Normal University, Jinan 250358, China  
-- Email: `tsingke@sdnu.edu.cn`
+- **Email**: `tsingke@sdnu.edu.cn`
+- **Wechat:**  @tsing_ke 
 
 
 ## 7. Acknowledgement
