@@ -25,7 +25,7 @@ Guanghui Zhou, Qingke Zhang*, Kaitong Fu, Xingchen Dong, Junqing Li, Diego Oliva
 
  which has been submitted to Elsevier Journal "Knowledge-Based Systems (KBS)".
 
-Copyright © 2026 by the authors. All rights reserved.
+ Copyright © 2026 by the authors. All rights reserved.
 ```
 ---
 
