@@ -8,7 +8,7 @@
 </p>
 
 
- **Author Information**
+ **Authors**
 ```
 Guanghui Zhou, Qingke Zhang*, Kaitong Fu, Xingchen Dong, Junqing Li, Diego Oliva
 ```
@@ -19,6 +19,14 @@ Guanghui Zhou, Qingke Zhang*, Kaitong Fu, Xingchen Dong, Junqing Li, Diego Oliva
 > **Corresponding author:** Qingke Zhang   
 > **Email:** `tsingke@sdnu.edu.cn`
 
+**Copyright**
+```
+ This repository contains the official implementation of our research work
+
+which has been submitted to Elsevier Journal "Knowledge-Based Systems (KBS)".
+
+Copyright © 2026 by the authors. All rights reserved.
+```
 ---
 
 ## 1. Research Overview
