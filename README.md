@@ -23,7 +23,7 @@ Guanghui Zhou, Qingke Zhang*, Kaitong Fu, Xingchen Dong, Junqing Li, Diego Oliva
 ```
  This repository contains the official implementation of our research work
 
-which has been submitted to Elsevier Journal "Knowledge-Based Systems (KBS)".
+ which has been submitted to Elsevier Journal "Knowledge-Based Systems (KBS)".
 
 Copyright © 2026 by the authors. All rights reserved.
 ```
