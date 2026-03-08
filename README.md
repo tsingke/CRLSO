@@ -40,11 +40,38 @@ CRLSO/
 
 ## 3. Schematic Diagram 
 
-<img width="414" height="345" alt="image" src="https://github.com/user-attachments/assets/04659f99-634e-4b52-84a2-b768e8dedc87" />
 
-<img width="481" height="330" alt="image" src="https://github.com/user-attachments/assets/ee1508ae-32a6-480d-bdd3-6ac7c98f0ceb" />
+<p align="left">
+  <img src="./Diagrams/CRL-Learning.png" alt="a" width="45%" />
+  <img src="./Diagrams/CRLSO-flowchart.png" alt="a" width="45%" />
+</p>
+<p align="center">
+  Illustration of CRLSO learning and flowchart.
+</p>
 
+
+<p align="left">
+  <img src="./Diagrams/Searh Behavior.png" alt="a" width="80%" />
+</p>
+<p align="center">
+  Search Behavior Analysius.
+</p>
+
+<p align="left">
+  <img src="./Diagrams/Radar-chart.png" alt="a" width="80%" />
+</p>
+<p align="center">
+ Peformance Comparison with Radar charts on CEC'2010 and CEC'2013.
+</p>
+
+<p align="left">
+  <img src="./Diagrams/msa.png" alt="a" width="80%" />
+</p>
+<p align="center">
+ CRLSO for Multiple Sequence Alignment(MSA).
+</p>
 ## 4. MATLAB Implementation
+
 
 ```matlab
 
