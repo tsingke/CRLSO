@@ -8,12 +8,7 @@
 </p>
 
 
-<p align="center">
-  Official MATLAB implementation of <b>CRLSO</b>, a competitive recombination learning swarm optimizer for large-scale global optimization.
-</p>
-
-
-## Author Information
+ **Author Information**
 ```
 Guanghui Zhou, Qingke Zhang*, Kaitong Fu, Xingchen Dong, Junqing Li, Diego Oliva
 ```
